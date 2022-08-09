@@ -1,2 +1,5 @@
 Red
 Orange
+Blue
+Yellow
+light blue
