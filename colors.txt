@@ -2,4 +2,5 @@ Red
 Orange
 Blue
 Yellow
-Dark blue
+Dark Blue
+light blue
